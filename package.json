@@ -1,0 +1,14 @@
+{
+  "name": "@skylab/randomstring",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+  "access": "public"
+  }
+}
